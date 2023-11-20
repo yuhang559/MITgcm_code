@@ -1,2 +1,2 @@
 # MITgcm_code
-Hi, this is MITgcm home where we upload some analysis scripts. 
+There is a space for me to upload some MITgcm scripts. 
